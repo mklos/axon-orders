@@ -8,4 +8,5 @@
     of assuming that anything annotated with @Inject is a "managed bean" and must be instantiated
     -->
     <!--test-->
+    <!--hello World-->
 </beans>
